@@ -12,6 +12,7 @@
     dependencies = {
       "luvit/require",
       "luvit/pretty-print",
+      "luvit/readline",
       "creationix/cbor",
     },
     files = {
